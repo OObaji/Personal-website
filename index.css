@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+
+img{
+    display: flex;
+    margin: 0px auto;
+}
+
+a, button, input{
+    color: inherit;
+}
+
+::placeholder {
+  color: inherit;
+  opacity: 1; /* Firefox */
+}
+
+li{
+    line-height: 30px;
+}
